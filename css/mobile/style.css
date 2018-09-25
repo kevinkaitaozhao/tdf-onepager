@@ -1,0 +1,140 @@
+@media only screen and (max-width: 414px) {
+  /** HEADER **/
+  img.tdf-logo {
+    width: 150px;
+    height: 31px;
+    margin: 15px;
+  }
+  
+  .header-title h1 {
+    font-size: 4vw;
+    margin: 2.5rem 15vw 0rem 15vw;
+  }
+  
+  .dwnld-onepager-btn {
+    width: 30%;
+    margin-top: 10px;
+    margin-bottom: 30px;
+  }
+  
+  /** PROBLEM **/
+  #problem {
+    padding: 2rem 15.5vw 0 15.5vw;
+  }
+  
+  .problem-content {
+    font-size: 1.8vw;
+    margin-top: 0.5rem;
+  }
+  
+  /** SOLUTION **/
+  #solution {
+    padding: 1rem 0;
+  }
+  
+  .solution-demo {
+    top: 10px;
+  }
+  
+  .solution-demo-btn {
+    bottom: 10px;
+    left: 35px;
+  }
+  
+  .solution-info {
+    padding: 0 0.5rem;
+  }
+  
+  .solution-title {
+    margin-top: 5%;
+  }
+  
+  .solution-title-span {
+    margin-bottom: 0;
+  }
+  
+  .solution-description {
+    font-size: 1.8vw;
+  }
+  
+  .solution-item-title {
+    margin: 0;
+  }
+  
+  .solution-item-info {
+    padding-right: 0.5rem;
+  }
+  
+  /** MARKET **/
+  #market {
+    padding: 2rem 0;
+  }
+  
+  .market-title-description {
+    font-size: 1.8vw;
+  }
+  .market-info {
+    margin-top: 0.5vw;
+  }
+  
+  .market-info-text {
+    font-size: 1.5vw;
+  }
+  
+  .market-img {
+    margin-left: 2.22vw;
+    margin-top: 30px;
+  }
+  
+  /** MODEL **/
+  #model {
+    padding: 1rem 8vw;
+  }
+  
+  .model-description {
+    font-size: 1.8vw;
+  }
+  
+  .model-title-revenue {
+    margin: 1.5rem 0;
+  }
+
+.model-img {
+  max-width: 100% !important;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+  
+  /** TEAM **/
+  #team {
+    padding: 1rem 2rem;
+  }
+  
+  .team-title {
+    font-size: 3.42vw;
+    text-transform: uppercase;
+  }
+  
+  .team-members-all {
+    margin-top: 3%;
+    margin-bottom: 5px !important;
+  }
+  
+  .team-info {
+    font-size: 0.6rem;
+  }
+  
+  .team-member {
+    margin-top: 0rem !important;
+  }
+  
+  .team-member-name {
+    font-size: 1rem;
+    margin-top: 0px;
+  }
+  
+  .team-advisor-name {
+    font-size: 2.5vw;
+  }
+}
