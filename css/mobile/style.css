@@ -10,6 +10,10 @@
     font-size: 4vw;
     margin: 2.5rem 15vw 0rem 15vw;
   }
+
+  .header-title h2 {
+    font-weight: 400;
+  }
   
   .dwnld-onepager-btn {
     width: 30%;

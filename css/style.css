@@ -185,6 +185,7 @@ nav ul a.navlink {
 }
 
 .market-img {
+  max-width: 135% !important;
   margin-left: 2.22vw;
 }
 
