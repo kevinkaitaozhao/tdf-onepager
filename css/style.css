@@ -90,22 +90,23 @@ nav ul a.navlink {
 
 .solution-demo {
   position: relative;
-  top: 0;
+  top: 50px;
   left: 0;
 }
 
 .solution-demo-photo {
-  margin-left: -1rem;
+  max-width: 130% !important;
+  margin-left: -10rem;
   position: relative;
-  top: 0;
+  top: 2rem;
   left: 0;
 }
 
 .solution-demo-btn {
   width: 60%;
   position: absolute;
-  bottom: 30px;
-  left: 70px;
+  bottom: -50px;
+  left: 90px;
 }
 
 .solution-info {

@@ -35,9 +35,15 @@
   .solution-demo {
     top: 10px;
   }
+
+  .solution-demo-photo {
+    max-width: 180% !important;
+    margin-left: -5rem;
+    top: 1rem;
+  }
   
   .solution-demo-btn {
-    bottom: 10px;
+    bottom: -5px;
     left: 35px;
   }
   
